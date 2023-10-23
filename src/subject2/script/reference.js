@@ -1,1 +1,9 @@
-const reference = [,];
+const reference = [
+  {
+    author: "",
+    title: "",
+    year: "",
+    sourceTitle: "",
+    link: "",
+  },
+];
